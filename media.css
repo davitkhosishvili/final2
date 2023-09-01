@@ -1,0 +1,180 @@
+@media (max-width:1024px){
+    .sec-one{
+        background-image: url(Mask\ Group.png);
+        width: 1024px;
+        height: 647px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+
+    }
+    .div-div{
+        max-width: 100%;
+        width: 764px;
+        height: auto;
+        margin-left: 52px;
+    }
+    .img-div1-main{
+        width: 904px;
+        height: auto;
+        
+    }
+    .img1{
+        width: 424px;
+        height: 404px;
+    }
+    .text{
+        max-width: 100%;
+        width: 515px;
+        height: 404px;
+        gap: 46px;
+    }
+    .p-lorem{
+        width: 428px;
+        height: 171px;
+    }
+    .img-div2-main{
+        gap: 46px;
+        
+    }
+    .asd3{
+        max-width: 100%;
+        width: 764px;
+        height: auto;
+        margin: 0 auto;
+    }
+    .footer-sec{
+        width: 1024px;
+        height: 536px;
+    }
+    .footer-div{
+        width: 903px;
+        height: 304px;
+    }
+    .footer-div1{
+        width: 184px;
+        height: 301px;
+    }
+    
+    
+}
+
+
+@media (max-width:375px){
+    .main-div{
+        align-content: center;
+        justify-content: center;
+        display: flex;
+
+    }
+    .burger-bar{
+        display: block;
+        cursor: pointer;
+        color: white;
+        font-size: 2rem;
+        
+    }
+    .ul{
+        display: none;
+    }
+    
+    .asd5{
+        width: 335px;
+        height: 380px;
+        margin-left: 20px;
+        
+    }
+    .asd5 h1 {
+        width: 335px;
+        height: 160px;
+        font-size: 42px;
+        line-height: 57px;
+
+    }
+    .asd5 p{
+        width: 335px;
+        height: 174px;
+        line-height: 36px;
+        font-size: 20px;
+        
+    }
+    .main-div1{
+        justify-content: center;
+    }
+    .img-div1-main{
+        width: 338px;
+        height: 793px;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        
+    }
+    .img1{
+        width: 335px;
+        height: 312px;
+    }
+    .h3-1{
+        width: 335px;
+        height: 42px;
+        font-size: 36px;
+        line-height: 41px;
+        display: flex;
+        justify-content: center;
+    }
+    .p-lorem{
+        width: 336px;
+        height: 200px;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .text{
+        width: 338px;
+        height: 451px;
+    }
+    .div-div{
+        margin-top: 90px;
+        margin-left: 17px;
+        
+    }
+    .img-div2-main{
+        width: 338px;
+        height: 793px;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        
+    }
+    .button-2{
+        width: 338px;
+        height: 108px;
+    }
+    .footer-sec{
+        width: 375px;
+        height: 1340px;
+    }
+    .footer-div{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 49px;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    .footer-div1{
+        width: 185px;
+        height: 304px;
+    }
+    .footer-div2{
+        width: 265px;
+        height: 248px;
+    }
+    .footer-div3{
+        width: 153px;
+        height: 192px;
+    }
+    .footer-div4{
+        width: 153px;
+        height: 136px;
+    }
+}
